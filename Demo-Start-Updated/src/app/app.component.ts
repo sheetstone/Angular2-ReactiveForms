@@ -4,8 +4,9 @@ import { Component } from '@angular/core';
     selector: 'my-app',
     template: `
         <div class="container">
-          <my-signup></my-signup>  sss
+          <my-signup></my-signup>
         </div>
     `
 })
 export class AppComponent { }
+
